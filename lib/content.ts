@@ -1,4 +1,4 @@
-import { JSONContent } from "novel";
+import { type JSONContent } from "novel";
 
 export const defaultEditorContent: JSONContent = {
   type: "doc",
